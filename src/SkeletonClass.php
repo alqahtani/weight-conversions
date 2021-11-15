@@ -1,7 +1,7 @@
 <?php
 
-namespace VendorName\Skeleton;
+namespace Alqahtani\WeightConversions;
 
-class SkeletonClass
+class WeightConversionsClass
 {
 }

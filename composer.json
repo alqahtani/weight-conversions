@@ -1,16 +1,16 @@
 {
-    "name": ":vendor_slug/:package_slug",
-    "description": ":package_description",
+    "name": "alqahtani/weight-conversions",
+    "description": "Weight conversions in PHP",
     "keywords": [
-        ":vendor_name",
-        ":package_slug"
+        "alqahtani",
+        "weight-conversions"
     ],
-    "homepage": "https://github.com/:vendor_slug/:package_slug",
+    "homepage": "https://github.com/alqahtani/weight-conversions",
     "license": "MIT",
     "authors": [
         {
-            "name": ":author_name",
-            "email": "author@domain.com",
+            "name": "Ahmed AlQahtani",
+            "email": "alq.ahmad@gmail.com",
             "role": "Developer"
         }
     ],
@@ -24,12 +24,12 @@
     },
     "autoload": {
         "psr-4": {
-            "VendorName\\Skeleton\\": "src"
+            "Alqahtani\\WeightConversions\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "VendorName\\Skeleton\\Tests\\": "tests"
+            "Alqahtani\\WeightConversions\\Tests\\": "tests"
         }
     },
     "scripts": {
