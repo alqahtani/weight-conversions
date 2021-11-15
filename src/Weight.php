@@ -4,12 +4,14 @@ namespace Alqahtani\WeightConversions;
 
 class Weight
 {
+    protected float $kilograms;
+    
     public static function kilograms(float $kilograms): self
     {
         return new static($kilograms);
     }
 
-    public function __construct(protected float $kilograms)
+    public function __construct(float $kilograms)
     {
     }
 
