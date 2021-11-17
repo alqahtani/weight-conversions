@@ -2,9 +2,9 @@
 
 All notable changes to `weight-conversions` will be documented in this file.
 
-## 1.0.0 - 2021-11-17
+## 1.1.0 - 2021-11-17
 
-- initial release
+- add `toStones`
 
 ## 1.0.0 - 2021-11-17
 
